@@ -1,0 +1,6 @@
+{
+  "name": "SneakerHub",
+  "description": "Premium sports shoes and sneaker eCommerce platform featuring personal curation, mock order systems, and a shopping assistant powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
